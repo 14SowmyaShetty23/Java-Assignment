@@ -12,8 +12,8 @@ public class IsNullOrEmpty {
      String test2 = "   ";
      String test3 = "Hello";
 
-     System.out.println("Test1: " + isNullOrEmpty(test1)); // true
-     System.out.println("Test2: " + isNullOrEmpty(test2)); // true
-     System.out.println("Test3: " + isNullOrEmpty(test3)); // false
+     System.out.println("Test1 " + test1 + ":"+ isNullOrEmpty(test1)); // true
+     System.out.println("Test2 " + test2 +":"+ isNullOrEmpty(test2)); // true
+     System.out.println("Test3 " + test3 + ":"+ isNullOrEmpty(test3)); // false
  }
 }
