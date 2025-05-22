@@ -4,17 +4,17 @@ String Creation and Basic Operations, Length and Character Access, String Compar
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 startsWith() and endsWith() 
-🔗 [Output Screenshot](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3cStringOperationsAndExercise/3astringoperations/3a.png)
+🔗 [Output Screenshot](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3StringOperationsAndExercise/3astringoperations/3a.png)
 
 ---
 
 ### 3b. String Exercise progams
 
 Q1. Write a Java Program for Checking if a given string is null or contains only whitespace using user defined function isNullOrEmpty().
-🔗 [Output Screenshot](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3cStringOperationsAndExercise/3bstringexercise/Output/3b_1.png)
+🔗 [Output Screenshot](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3StringOperationsAndExercise/3bstringexercise/Output/3b_1.png)
 
 Q2. Write a Java Program for Counting how many times a substring appears in a main string using user defined function countOccurrences()
-🔗 [Output Screenshot](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3cStringOperationsAndExercise/3bstringexercise/Output/3b_2.png)
+🔗 [Output Screenshot](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3StringOperationsAndExercise/3bstringexercise/Output/3b_2.png)
 
 Q3. Write a Java Program for  Reversing the characters in a string using user defined function reverseString().
 🔗 [Output Screenshot](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3StringOperationsAndExercise/3bstringexercise/Output/3b_3.png)
@@ -23,7 +23,7 @@ Q4. Write a Java Program for Checking if a string reads the same backward as for
 🔗 [Output Screenshot](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3StringOperationsAndExercise/3bstringexercise/Output/3b_4.png)
 
 Q5. Write a Java Program for Eliminating all whitespace characters from a string using user defined function removeWhitespace()
-🔗 [Output Screenshot]([Exp3a-StringOperations/exp5.png](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3StringOperationsAndExercise/3bstringexercise/Output/3b_5.png))
+🔗 [Output Screenshot](https://github.com/14SowmyaShetty23/Java-Assignment/blob/main/3StringOperationsAndExercise/3bstringexercise/Output/3b_5.png)
 
 ### 3c. String Exercise progams
 
