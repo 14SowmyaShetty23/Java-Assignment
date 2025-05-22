@@ -1,7 +1,6 @@
- package Array_List_programs_1b;
-
 //Q1b-5: Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index
 
+package Array_List_programs_1b;
 import java.util.*;
 
 public class DeleteNthElement {
