@@ -1,0 +1,22 @@
+<!-- 9a. Read all the existing records from the table coffee which is from the database test and delete
+an existing coffee product from the table with its id and display the rest of the records using
+HTML and JSP to get the field and display the results respectively-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete Coffee Product</title>
+</head>
+<body>
+    <h2>Delete Coffee Product</h2>
+
+    <form action="deleteCoffee.jsp" method="post">
+        <label>
+            CoffeeID to delete:
+            <input type="number" name="id" required>
+        </label>
+        <br><br>
+        <input type="submit" value="Delete">
+    </form>
+</body>
+</html>
